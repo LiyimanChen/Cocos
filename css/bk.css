@@ -2,7 +2,7 @@
     width: 70%;
     /* border: 1px solid red; */
     margin: 2em auto;
-    height: 63em;
+    height: 68em;
 }
 .bk_top{
     width:98.2%;
@@ -50,7 +50,7 @@
     position: absolute;
     top: 1em;
     left: 17em;
-    width: 71%;
+    width: 60%;
 }
 .bk_content .bk_content_left_list ul li div h1 a{
         color: black;
@@ -110,7 +110,7 @@
     padding: 1em 0em 0em 1em;
     font-family: "微软雅黑";
     position: absolute;
-    top: 3em;
+    top: -1em;
     right: 0em;
 }
 .bk_content_right .bk_content_right1{
@@ -262,14 +262,14 @@
     .bk_top{
         /* width: 97%; */
         height: 3em;
-        font-size: 2.5em;
+        font-size: 2em;
         line-height: 3em;
         /* margin-top: 3em; */
     }
     .bk_content .bk_content_left_list ul li div{
         left: 19em;
         width: 57%;
-        font-size: 1.6em;
+        font-size: 1em;
         top: 0;
     }
     .bk_content {
